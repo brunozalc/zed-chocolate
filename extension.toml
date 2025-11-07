@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Bruno Zalcberg <bruno@zalcberg.me>"]
 description = "Chocolate theme for Zed 🍫"
-repository = "https://github.com/your-name/my-zed-extension"
+repository = "https://github.com/brunozalc/zed-chocolate"
