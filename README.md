@@ -4,7 +4,7 @@ Chocolate theme for Zed 🍫
 
 ## Description
 
-This is a zed port of [snakedye's chocolate](https://gitlab.com/snakedye/chocolate) theme.
+This is a Zed port of [snakedye's chocolate](https://gitlab.com/snakedye/chocolate) theme.
 
 Currently, there is no light mode support.
 
